@@ -1,164 +1,266 @@
-[
-  {
-    "title": "KTM Launches New Bike in The Market",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature.",
-    "category": "tech",
-    "id": "1596258409985",
-    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...",
-    "thumbnail": "http://192.168.0.106:3000/1596258409985-ktm.jpg"
-  },
-  {
-    "title": "This New Feature of Gmail is Going to Be Very Handy.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 20300 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "id": "1596258694751",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596258694751-gmail.jpg"
-  },
-  {
-    "title": "Best Budget Friendly Laptop For School Goind Girls & Boys.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "featured": "on",
-    "id": "1596258726128",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596258726128-laptop.jpg"
-  },
-  {
-    "title": "(Review by Tech Expert) Should You Buy This New Smart TV!",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "featured": "on",
-    "id": "1596258886460",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596258886460-tv.jpg"
-  },
-  {
-    "title": "How Smartphones Changed us over The Time.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "id": "1596259028037",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596259028037-phone.jpg"
-  },
-  {
-    "title": "Why Do Most Gamers Love This Gaming Chair?",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "id": "1596259378703",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596259378703-chair.jpg"
-  },
-  {
-    "title": "This Will Change Your Data Transferring Experience.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "id": "1596259575889",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596259575889-data-transfer.jpg"
-  },
-  {
-    "title": "Why Does These Drones Cost This Much?",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "tech",
-    "id": "1596259899373",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596259899373-Drone.jpg"
-  },
-  {
-    "title": "Good News For All Fast & Furious Fans.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "entertainment",
-    "id": "1596260591445",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596260591445-fast-and-furious.jpg"
-  },
-  {
-    "title": "Bollywood Then and Now",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "entertainment",
-    "id": "1596261355864",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596261355864-bollywood.jpg"
-  },
-  {
-    "title": "Top 10 Must Watch Award Winning Movies.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "entertainment",
-    "id": "1596261570456",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596261570456-movies.jpg"
-  },
-  {
-    "title": "Wnat to Learn Dance, Learn From Expert.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "entertainment",
-    "id": "1596261782065",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596261782065-dance.jpg"
-  },
-  {
-    "title": "Top 10 Story Books Which Will Blow Your Mind.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "entertainment",
-    "id": "1596262314121",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596262314121-books.jpg"
-  },
-  {
-    "title": "Important Update to Covid-19 Vaccine.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "breaking-news",
-    "id": "1596262628892",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596262628892-vaccine.jpg"
-  },
-  {
-    "title": "This Election Might Get Postponed Due to Current Situation.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "breaking-news",
-    "id": "1596262817004",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596262817004-election.jpg"
-  },
-  {
-    "title": "This Election Might Get Postponed Due to Current Situation.",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "political",
-    "id": "1596262835905",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596262817004-election.jpg"
-  },
-  {
-    "title": "Two Buildings Caught on Fire",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "breaking-news",
-    "id": "1596263389890",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596263389890-fire.jpg"
-  },
-  {
-    "title": "President Announced an Important Press Meet",
-    "content": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\r\n\r\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    "category": "political",
-    "id": "1596263644338",
-    "desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classi...",
-    "thumbnail": "http://192.168.0.106:3000/1596263644338-precident.jpg"
-  },
-  {
-    "title": "Good News For Students",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "category": "breaking-news",
-    "id": "1596282203179",
-    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...",
-    "thumbnail": "http://192.168.0.106:3000/1596282203179-student.jpg"
-  },
-  {
-    "title": "Govt. Might Change The Driving Rules For Heavy Vehicle",
-    "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\r\n\r\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    "category": "breaking-news",
-    "id": "1596282564204",
-    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ...",
-    "thumbnail": "http://192.168.0.106:3000/1596282564204-truce.jpg"
-  }
+{
+"status": "ok",
+"totalResults": 5412,
+-"articles": [
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Callum Burroughs and Shona Ghosh",
+"title": "Balderton Capital general partner Lars Fjeldsoe-Nielsen is leaving the venture capital firm",
+"description": "Summary List PlacementLars Fjeldsoe-Nielsen, a London-based general partner at European venture capital fund Balderton Capital, is leaving the firm, Insider understands. \nFjeldsoe-Nielsen joined Balderton in 2015 from Uber where he was a vice president. He al…",
+"url": "https://www.businessinsider.com/balderton-capital-general-partner-lars-fjeldsoe-nielsen-out-2021-1",
+"urlToImage": "https://i.insider.com/5ff5d9e56d61c10019ccde8b?width=1200&format=jpeg",
+"publishedAt": "2021-01-06T16:19:11Z",
+"content": "Lars Fjeldsoe-Nielsen, a London-based general partner at European venture capital fund Balderton Capital, is leaving the firm, Insider understands. \r\nFjeldsoe-Nielsen joined Balderton in 2015 from Ub… [+992 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "Theron Mohamed",
+"title": "Veteran investor Bill Miller flips Warren Buffett's Bitcoin snub to argue crypto beats cash",
+"description": "Summary List Placement<ul>\n<li>Value investor Bill Miller praised Bitcoin in a market letter on Thursday.</li>\n<li>The Miller Value Partners chief and former Legg Mason boss invoked Warren Buffett's scathing criticism of the cryptocurrency to underscore the t…",
+"url": "https://www.businessinsider.com/investor-bill-miller-flips-warren-buffett-bitcoin-snub-beats-cash-2021-1",
+"urlToImage": "https://i.insider.com/5f3a68f8e89ebf001f045221?width=1200&format=jpeg",
+"publishedAt": "2021-01-06T16:16:46Z",
+"content": "<ul><li>Value investor Bill Miller praised Bitcoin in a market letter on Thursday.</li><li>The Miller Value Partners chief and former Legg Mason boss invoked Warren Buffett's scathing criticism of th… [+2695 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Chuck Mikolajczak",
+"title": "Dollar sinks as investors weigh Democrat gains in Georgia - Reuters",
+"description": "The dollar bounced after sinking to its lowest level in nearly three years on Wednesday, with markets anticipating a Democrat win in the U.S. Senate election in Georgia that would clear the path for a larger fiscal stimulus package.",
+"url": "https://www.reuters.com/article/global-forex-int-idUSKBN29B07I",
+"urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210106&t=2&i=1546735141&r=LYNXMPEH05037&w=800",
+"publishedAt": "2021-01-06T16:05:00Z",
+"content": "NEW YORK (Reuters) - The dollar bounced after sinking to its lowest level in nearly three years on Wednesday, with markets anticipating a Democrat win in the U.S. Senate election in Georgia that woul… [+2903 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Slashdot.org"
+},
+"author": "feedfeeder",
+"title": "Wall Street refused to believe the Georgia polls. Now there’s a big rotation under way - MarketWatch",
+"description": "Wall Street refused to believe the Georgia polls. Now there’s a big rotation under wayMarketWatch AUD/USD Forecast: Keeps Pressuring Its Highs, Has Room To Break Beyond April 2018 HighYahoo Finance Bitpay’s CCO says Bitcoin could hit $45K in a month, but ther…",
+"url": "https://slashdot.org/firehose.pl?op=view&amp;id=140661754",
+"urlToImage": null,
+"publishedAt": "2021-01-06T15:54:08Z",
+"content": "The Fine Print: The following comments are owned by whoever posted them. We are not responsible for them in any way."
+},
+-{
+-"source": {
+"id": null,
+"name": "Bitcoinist"
+},
+"author": "Tony Spilotro",
+"title": "Altcoins Soar Alongside Bitcoin, Crypto Market Cap Nears $1 Trillion",
+"description": "Bitcoin price is just under $35,000 and altcoins like Ethereum, Litecoin, and many DeFi tokens are once again heating up. The combined capital pouring in has resulted in the total crypto market cap within striking distance of $1 trillion. When the asset class…",
+"url": "https://bitcoinist.com/altcoins-soar-alongside-bitcoin-crypto-market-cap-nears-1-trillion/",
+"urlToImage": "https://bitcoinist.com/wp-content/uploads/2021/01/bitcoin-altcoins-crypto-market-cap-Depositphotos_181447054_xl-2015-1920x1030.jpg",
+"publishedAt": "2021-01-06T15:51:27Z",
+"content": "Bitcoin price is just under $35,000 and altcoins like Ethereum, Litecoin, and many DeFi tokens are once again heating up. The combined capital pouring in has resulted in the total crypto market cap w… [+2555 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ValueWalk"
+},
+"author": "Przemyslaw Radomski, CFA",
+"title": "Despite Signs To The Contrary, Gold At Or Near Top",
+"description": "The thing that most likely raised quite a few eyebrows this week was – in addition to gold’s recent move by itself – the fact that gold rallied mostly without the dollar’s help. Yesterday (Jan. 5) I wrote that one swallow doesn’t make a summer and that a sing…",
+"url": "https://www.valuewalk.com/despite-signs-contrary-gold-rallied/",
+"urlToImage": "https://www.valuewalk.com/wp-content/uploads/2021/01/Gold-Futures-1.png",
+"publishedAt": "2021-01-06T15:40:12Z",
+"content": "The thing that most likely raised quite a few eyebrows this week was in addition to golds recent move by itself the fact that gold rallied mostly without the dollars help. Yesterday (Jan. 5) I wrote … [+6438 chars]"
+},
+-{
+-"source": {
+"id": "financial-post",
+"name": "Financial Post"
+},
+"author": "Larysa Harapyn",
+"title": "Exploding Bitcoin should be a part of investors' portfolios",
+"description": "Purpose Investments CEO Som Seif talks with the Financial Post’s Larysa Harapyn about alternative assets for attractive returns in 2021. \n \n \n \n \n \n <ul>\n<li>David Rosenberg: Behold the most speculative and momentum-driven market on record</li>\n<li>What can g…",
+"url": "https://financialpost.com/technology/exploding-bitcoin-should-be-a-part-of-investors-portfolios",
+"urlToImage": "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2021/01/vw0106bitcoin.jpg",
+"publishedAt": "2021-01-06T15:32:50Z",
+"content": "365 Bloor Street East, Toronto, Ontario, M4W 3L4\r\n© 2021 Financial Post, a division of Postmedia Network Inc. All rights reserved. Unauthorized distribution, transmission or republication strictly pr… [+8 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "New York Post"
+},
+"author": "Noah Manskar",
+"title": "Bitcoin hits new record above $35,000 following massive drop",
+"description": "Bitcoin surged to a new record high late Tuesday less than two days after suffering its biggest single-day drop in months. The price of the world’s largest cryptocurrency rose to an all-time peak of $35,751.00 shortly before midnight after crossing the $35,00…",
+"url": "https://nypost.com/2021/01/06/bitcoin-hits-new-record-above-35000-after-massive-drop/",
+"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/01/CRYPTO-CURRENCY_.jpg?quality=90&strip=all&w=1200",
+"publishedAt": "2021-01-06T15:28:07Z",
+"content": "Bitcoin surged to a new record high late Tuesday less than two days after suffering its biggest single-day drop in months.\r\nThe price of the world’s largest cryptocurrency rose to an all-time peak of… [+1359 chars]"
+},
+-{
+-"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": "Tina Bellon",
+"title": "A COVID-19 shot for $150? Online scams surge as slow vaccine rollout frustrates",
+"description": "By Tina Bellon NEW YORK, Jan 5 (Reuters) - As millions of people await their turn to get a COVID-19 vaccine that could be months away, scammers online, in emails and on messaging apps are luring victims with claims they can deliver shots within days for as li…",
+"url": "https://www.reuters.com/article/health-coronavirus-vaccine-scams-idUSL8N2JF4GJ",
+"urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+"publishedAt": "2021-01-06T15:27:00Z",
+"content": "NEW YORK, Jan 5 (Reuters) - As millions of people await their turn to get a COVID-19 vaccine that could be months away, scammers online, in emails and on messaging apps are luring victims with claims… [+4511 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ValueWalk"
+},
+"author": "Jacob Wolinsky",
+"title": "Latest cryptocurrency “TulipCoin” sparks buying mania",
+"description": "The EV-pegged TulipCoin cryptocurrency rocketed over 800% Tuesday (not a misprint), dominating the cryptocurrency markets as investors flocked to hedge against the sinking fiat currencies by purchasing fiat assets. TulipCoin differentiates itself from the hun…",
+"url": "https://www.valuewalk.com/tulipcoin-sparks-buying-mania/",
+"urlToImage": "https://www.valuewalk.com/wp-content/uploads/2021/01/Tulip_1609946236.jpg",
+"publishedAt": "2021-01-06T15:26:05Z",
+"content": "The EV-pegged TulipCoin cryptocurrency rocketed over 800% Tuesday (not a misprint), dominating the cryptocurrency markets as investors flocked to hedge against the sinking fiat currencies by purchasi… [+2566 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "ValueWalk"
+},
+"author": "Jacob Wolinsky",
+"title": "Best Pick for 2021 – Short Tesla",
+"description": "Whitney Tilson’s email to investors discussing Tesla’s Q4 production and deliveries; Hypercharts’ updated charts; Model S erupted ‘like a flamethrower.’; Spiegel Dec. letter; Kass: my best pick for 2021 – short Tesla; bull-bear arguments & debate. Q3 2020 hed…",
+"url": "https://www.valuewalk.com/teslas-q4-production-deliveries/",
+"urlToImage": "https://www.valuewalk.com/wp-content/uploads/2020/09/TEsla_1599060376.jpg",
+"publishedAt": "2021-01-06T14:47:47Z",
+"content": "Whitney Tilson’s email to investors discussing Tesla’s Q4 production and deliveries; Hypercharts updated charts; Model S erupted ‘like a flamethrower.’; Spiegel Dec. letter; Kass: my best pick for 20… [+9029 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Guido Molinari",
+"title": "Enterprise Blockchain Is at a Private-Public Crossroads",
+"description": "The big players in enterprise blockchain face a decision: stay with underwhelming consortia projects, or invest in public networks like Ethereum.",
+"url": "https://www.coindesk.com/index.php?p=562078",
+"urlToImage": "https://static.coindesk.com/wp-content/uploads/2021/01/nikita-vasilevskiy-85ssodzOddY-unsplash-1200x628.jpg",
+"publishedAt": "2021-01-06T14:46:14Z",
+"content": "Looking back 12 months, our (Prysm’s) review of 2019 was naive, to say the least. We cited challenges to a successful 2020 for enterprise blockchain. And, while those predictions were not far off, th… [+6596 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Investmentwatchblog.com"
+},
+"author": "alexmark",
+"title": "Will the Fed Support Gold Prices in 2021?",
+"description": null,
+"url": "https://www.investmentwatchblog.com/will-the-fed-support-gold-prices-in-2021/",
+"urlToImage": null,
+"publishedAt": "2021-01-06T14:38:51Z",
+"content": "by Arkadiusz Sieron of Sunshine Profits\r\nGold ended 2020 at $1,891, partially thanks to monetary policy easing. In 2021, the Fed may not trigger a comparable rally in gold, but it should offer gold p… [+5583 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "City A.M."
+},
+"author": "Bridie Wilson",
+"title": "We need more crypto companies to IPO to increase digital asset scrutiny and adoption",
+"description": "As a publicly listed digital asset trading business, the recent announcement of Coinbase’s IPO has naturally put a spotlight on\nThe post We need more crypto companies to IPO to increase digital asset scrutiny and adoption appeared first on CityAM.",
+"url": "https://www.cityam.com/we-need-more-crypto-companies-to-ipo-to-increase-digital-asset-scrutiny-and-adoption/",
+"urlToImage": "https://www.cityam.com/wp-content/uploads/2021/01/NASDAQ_stock_market_display-scaled.jpg",
+"publishedAt": "2021-01-06T14:37:06Z",
+"content": "As a publicly listed digital asset trading business, the recent announcement of Coinbases IPO has naturally put a spotlight on us at Voyager Digital and we welcome their move as it will improve trust… [+4136 chars]"
+},
+-{
+-"source": {
+"id": "business-insider",
+"name": "Business Insider"
+},
+"author": "mfox@businessinsider.com (Matthew Fox)",
+"title": "US stocks trade mostly lower as likely Democratic control of Senate roils tech",
+"description": "Stocks traded lower on Wednesday as investors digested the increased likelihood that Democrats will control both Congress and the White House.",
+"url": "https://www.businessinsider.com/stock-market-news-today-democratic-control-of-senate-roils-tech-2021-1",
+"urlToImage": "https://i.insider.com/5ff5c3f66d61c10019ccde1f?width=1200&format=jpeg",
+"publishedAt": "2021-01-06T14:33:38Z",
+"content": "<ul><li>US stocks traded mostly lower on Wednesday after results from the Georgia Senate runoff elections pointed to a likely Democratic \"blue sweep.\"</li><li>Tech stocks led the market lower as Demo… [+2062 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": null,
+"title": "Why Bitcoin Is In Launch Mode: Bullish",
+"description": "ISM Price went under-noticed today. ISM Manufacturing Prices were up in the survey almost 20% November to December.",
+"url": "https://seekingalpha.com/article/4397521-why-bitcoin-is-in-launch-mode-bullish?source=feed_all_articles",
+"urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+"publishedAt": "2021-01-06T14:33:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Seeking Alpha"
+},
+"author": null,
+"title": "Why Bitcoin Is In Launch Mode: Bullish",
+"description": "ISM Price went under-noticed today. ISM Manufacturing Prices were up in the survey almost 20% November to December.",
+"url": "https://seekingalpha.com/article/4397521-why-bitcoin-is-in-launch-mode-bullish?source=feed_tag_us",
+"urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+"publishedAt": "2021-01-06T14:33:00Z",
+"content": null
+},
+-{
+-"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Muyao Shen, Omkar Godbole and Bradley Keoun",
+"title": "First Mover: Bitcoin Hits Record as ‘Blue Wave’ and ‘Kimchi Premium’ Look Bullish",
+"description": "Bitcoin surges above $35K for first time with U.S. Democrats poised to take full control of government and 'Kimchi Premium' back in force.",
+"url": "https://finance.yahoo.com/news/first-mover-bitcoin-hits-record-143253552.html",
+"urlToImage": "https://s.yimg.com/uu/api/res/1.2/aCkOBfwwS7Kndm.tmmf_hQ--~B/aD05MDA7dz0xMzUwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/coindesk_75/390c7f41dec7bf7a16e99dcce3a7d168",
+"publishedAt": "2021-01-06T14:32:53Z",
+"content": "Bitcoin (BTC) rose for a second day, surging to a new all-time high price of $35,751, according to CoinDesk’s Bitcoin Price Index. \r\nThe jump came as votes were tallied from Tuesday’s special U.S. Se… [+8254 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "CoinDesk"
+},
+"author": "Muyao Shen",
+"title": "First Mover: Bitcoin Hits Record as ‘Blue Wave’ and ‘Kimchi Premium’ Look Bullish",
+"description": "Bitcoin surges above $35,000 ($35K) as U.S. Democratic \"Blue Wave\" poised for full control of government and 'Kimchi premium' back in force.",
+"url": "https://www.coindesk.com/first-mover-bitcoin-35k-record-blue-wave-kimchi-premium",
+"urlToImage": "https://static.coindesk.com/wp-content/uploads/2021/01/MOSHED-2021-1-6-8-29-31-1200x628.jpg",
+"publishedAt": "2021-01-06T14:32:53Z",
+"content": "Bitcoin (BTC) rose for a second day, surging to a new all-time high price of $35,751, based on CoinDesk’s Bitcoin Price Index. \r\nThe jump came as votes were tallied from Tuesday’s special U.S. Senate… [+7997 chars]"
+},
+-{
+-"source": {
+"id": null,
+"name": "Cointelegraph"
+},
+"author": "Cointelegraph By Osato Avan-Nomayo",
+"title": "Japanese telecoms giant Softbank Corp joins crypto regulatory group JSTA",
+"description": "The JSTA also includes crypto and blockchain firms like security token platform TokenSoft and Japan’s largest cryptocurrency trading service BitFlyer.",
+"url": "https://cointelegraph.com/news/japanese-telecoms-giant-softbank-corp-joins-crypto-regulatory-group-jsta",
+"urlToImage": "https://s3.cointelegraph.com/uploads/2021-01/15eb0fc0-2725-408c-8a35-3ab9fffb5d83.jpg",
+"publishedAt": "2021-01-06T14:32:10Z",
+"content": "Softbank Corp, the telecoms arm of the Japanese conglomerate Softbank Group, has confirmed its membership of the Japanese Security Token Association. \r\nThe company now joins other firms like Mitsui T… [+1656 chars]"
+}
 ]
+}
